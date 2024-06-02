@@ -23,7 +23,7 @@ We observe an incredibly correlation between sentiment and prices and its powerf
 The strong divergence observed in the last weeks between sentiment and prices, anticipated a predicted correction on prices.
 ![Example](docs/imgs/img4.png)
 
-### Indicator as a tarding signal
+### Indicator as a trading signal
 In green I've highlighted the long periods and in red short ones. I defined them based on the change in derivative of the sentiment's LOESS calculated.
 ![Sentimeter](docs/imgs/SentiMeter.jpg)
 
