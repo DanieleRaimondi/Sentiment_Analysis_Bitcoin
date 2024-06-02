@@ -22,4 +22,4 @@ In summary, our study aims to identify how in-game events and statistics influen
 ![Example](docs/imgs/Sentimeter.jpg)
 
 
-[Click here to view the full slides](https://github.com/DanieleRaimondi/Betting_Livescore_Scrapers/blob/main/docs/Slides.pdf)
+[Click here to view the full slides](https://github.com/DanieleRaimondi/Sentiment_Analysis_Bitcoin/blob/main/docs/slides.pdf)
