@@ -19,11 +19,7 @@ In summary, our study aims to identify how in-game events and statistics influen
 ![Example](docs/imgs/img2.png)
 ![Example](docs/imgs/img3.png)
 ![Example](docs/imgs/img4.png)
-![Example](docs/imgs/img5.png)
-![Example](docs/imgs/img6.png)
-![Example](docs/imgs/img7.png)
-![Example](docs/imgs/img8.png)
-![Example](docs/imgs/img9.png)
-![Example](docs/imgs/img10.png)
+![Example](docs/imgs/Sentimeter.jpg)
+
 
 [Click here to view the full slides](https://github.com/DanieleRaimondi/Betting_Livescore_Scrapers/blob/main/docs/Slides.pdf)
