@@ -1,4 +1,4 @@
-# Sentiment_Analysis_Bitcoin
+# Sentiment Analysis Bitcoin
 
 This is a project I realized to understand in advance when Bitcoin price will reverse, exploiting the sentiment on Twitter with NLP and Machine Learning techniques.
 
