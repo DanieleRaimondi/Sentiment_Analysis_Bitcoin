@@ -17,8 +17,18 @@ In summary, our study aims to identify how in-game events and statistics influen
 ## Short slides:
 ![Example](docs/imgs/img1.png)
 ![Example](docs/imgs/img2.png)
+
+### Modelling sentiment (TextBlob and VADER) with LOESS vs BTC prices
+We observe an incredibly correlation between sentiment and prices and its powerful ability to anticipate price movements.
+
 ![Example](docs/imgs/img3.png)
+
+### Huge correction predicted
+The strong divergence observed in the last weeks between sentiment and prices, anticipated a predicted correction on prices.
 ![Example](docs/imgs/img4.png)
+
+### Indicator as a tarding signal
+In green I've highlighted the long periods and in red short ones. I defined them based on the change in derivative of the sentiment's LOESS calculated.
 ![Sentimeter](docs/imgs/SentiMeter.jpg)
 
 
