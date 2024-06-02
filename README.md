@@ -19,7 +19,7 @@ In summary, our study aims to identify how in-game events and statistics influen
 ![Example](docs/imgs/img2.png)
 ![Example](docs/imgs/img3.png)
 ![Example](docs/imgs/img4.png)
-![Example](docs/imgs/Sentimeter.jpg)
+![Sentimeter](docs/imgs/SentiMeter.jpg)
 
 
 [Click here to view the full slides](https://github.com/DanieleRaimondi/Sentiment_Analysis_Bitcoin/blob/main/docs/slides.pdf)
